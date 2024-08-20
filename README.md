@@ -1,6 +1,6 @@
 # README
 
-## Project Overview
+## Project Overview - Langchain Roleplay
 
 This project demonstrates the use of OpenAI's GPT-3.5 model with `langchain` to perform a variety of tasks including role-based conversation generation, instruction following using templates, and creating examples for few-shot learning. The project highlights how to configure and utilize the model to respond to user queries based on predefined roles, templates, and examples.
 
